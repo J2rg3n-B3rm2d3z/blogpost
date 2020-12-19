@@ -1,7 +1,9 @@
 Esta son solo lineas de prueba para un texto plano
 
-Simplemente se utiliza este texto plano para el uso de unos cursos de Githib
+Simplemente se utiliza este texto plano para el uso de unos cursos de Github, error mio, lo escribi mal.
 
 
 Se que escribi mal Github pero eso no cambiara el hecho que este documento sera utilizado para
 el uso del repositorio.
+
+Creo que tuve problemas con el Git 
