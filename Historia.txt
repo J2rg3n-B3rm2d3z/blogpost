@@ -6,4 +6,4 @@ Simplemente se utiliza este texto plano para el uso de unos cursos de Github, er
 Se que escribi mal Github pero eso no cambiara el hecho que este documento sera utilizado para
 el uso del repositorio.
 
-Creo que tuve problemas con el Git pero ya no
+Tuve problemas con git pero creo que ya lo controlo, esc+shift+ doble z para salir del editor bin
