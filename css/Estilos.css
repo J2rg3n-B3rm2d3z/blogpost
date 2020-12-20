@@ -1,8 +1,25 @@
 body 
 {
 
-text-align: center;
-color: teal;
-font-family: "Arial";
+    text-align: center;
+    color: teal;
+    font-family: "Arial";
+    font-size: 16px;
+
+}
+
+#container
+{
+    width: 70%;
+    padding: 1cm;
+    text-align: left;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+#container h1
+{
+
+    font-size: 20px;
 
 }
